@@ -6,6 +6,8 @@ I'm a Computer Engineering student passionate about building full-stack solution
 I enjoy working on Java + Spring Boot backends, React frontends, and IoT systems with Arduino/ESP32.
 
 ## 🔧 Technologies
+
+<div>
 <img height="20" src="https://cdn.simpleicons.org/javascript?viewbox=auto" />
 <img height="20" src="https://cdn.simpleicons.org/python?viewbox=auto" />
 <img height="20" src="https://cdn.simpleicons.org/kotlin?viewbox=auto" />
@@ -15,7 +17,7 @@ I enjoy working on Java + Spring Boot backends, React frontends, and IoT systems
 <img height="20" src="https://cdn.simpleicons.org/julia?viewbox=auto" />
 <img height="20" src="https://cdn.simpleicons.org/haskell?viewbox=auto" />
 <img height="20" src="https://cdn.simpleicons.org/clojure?viewbox=auto" />
-
+</div>
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LORENZOCIRCELLI&show_icons=true&theme=radical" alt="GitHub Stats"/>
