@@ -7,7 +7,7 @@ I enjoy working on Java + Spring Boot backends, React frontends, and IoT systems
 
 ## 🔧 Technologies
 
-<div align="center" margin="20">
+<div align="center" margin="20px">
 <img height="40" src="https://cdn.simpleicons.org/javascript?viewbox=auto" />
 <img height="40" src="https://cdn.simpleicons.org/python?viewbox=auto" />
 <img height="40" src="https://cdn.simpleicons.org/kotlin?viewbox=auto" />
