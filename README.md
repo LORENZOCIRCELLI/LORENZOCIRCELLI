@@ -27,7 +27,7 @@
 
 
 ## 📊 GitHub Stats
-![Lorenzo Circelli GitHub stats](https://github-readme-stats.vercel.app/api?username=LORENZOCIRCELLIh&show_icons=true)
+![Lorenzo Circelli GitHub stats](https://github-readme-stats.vercel.app/api?username=LORENZOCIRCELLI&show_icons=true)
 
 ## 🔗 Connect with me
 [LinkedIn](https://linkedin.com/in/LORENZOCIRCELLI) | [Portfolio](https://lorenzocircelli.com.br)
