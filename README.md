@@ -1,6 +1,6 @@
 <div align="center" style="margin: 60px 0 40px 0;">
 
-  <pre style="font-family: monospace; font-size: 14px; line-height: 14px; color: #4caf50; margin-bottom: 20px;">
+  <pre style="font-family: monospace; font-size: 14px; line-height: 14px; color: #4caf50; margin-bottom: 10px;">
 
 ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
 ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
