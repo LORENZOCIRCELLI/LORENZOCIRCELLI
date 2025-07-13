@@ -1,7 +1,9 @@
-<h1 align="center" style="margin:50px">Hi, I'm Lorenzo Circelli</h1>
-<p align="center"style="margin:50px">
+<div align="center">
+<h1 style="margin:50px">Hi, I'm Lorenzo Circelli</h1>
+<p style="margin:50px">
   <span style="font-family: monospace; background: transparent;">Computer Engineering student and full-stack developer</span>
 </p>
+</div>
 
 ## 👨‍💻 About Me
 I'm a Computer Engineering student passionate about building full-stack solutions that connect the physical and digital worlds.  
