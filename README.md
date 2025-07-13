@@ -1,6 +1,6 @@
-<div align="center" style="margin: 60px 0 40px 0;">
+<div align="center">
 
-  <pre style="font-family: monospace; font-size: 14px; line-height: 5px; color: #4caf50; margin-bottom: 10px;">
+  <pre style="font-family: monospace; font-size: 14px; line-height: 5px; color: #4caf50; margin-bottom: 10px; opacity:0">
 
 ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
 ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
@@ -11,37 +11,31 @@
                                                                           
   </pre>
 
-  <h1 style="margin: 0; font-weight: 700; color: #222;">Hi, I'm Lorenzo Circelli 👋</h1>
-  <p style="margin: 10px 0 20px 0; font-family: monospace; background: transparent; font-size: 16px; color: #555;">
-    Computer Engineering student and full-stack developer
-  </p>
-
-  <!-- Badges -->
-  <p>
-    <a href="https://github.com/LORENZOCIRCELLI" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/GitHub-LORENZOCIRCELLI-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-    </a>
-    <a href="https://www.linkedin.com/in/lorenzocircelli" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-Lorenzo%20Circelli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    <a href="https://twitter.com/lorenzocircelli" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Twitter-@lorenzocircelli-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-    </a>
-  </p>
+  </div>
+  <div align="center">
+  <h1>Hi, I'm Lorenzo Circelli 👋</h1>
+  <code>Computer Engineering student and full-stack developer</code>
 </div>
-
----
+<div align="center">
+  <br>
+<p>
+  <a href="https://github.com/LORENZOCIRCELLI" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a>
+  <a href="https://www.linkedin.com/in/lorenzocircelli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="https://twitter.com/lorenzocircelli" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" /></a>
+</p>
+</div>
+<br>
 
 ## 👨‍💻 About Me
 
 I'm a Computer Engineering student passionate about building full-stack solutions that connect the physical and digital worlds.  
 I enjoy working on **Java + Spring Boot** backends, **React** frontends, and IoT systems with **Arduino/ESP32**.
 
----
+<br>
 
 ## 🔧 Technologies & Tools
 
-<div align="center" style="margin: 40px 0;">
+<div align="center" style="margin: 40px 0;"><br><br>
   <img height="40" alt="JavaScript" src="https://cdn.simpleicons.org/javascript" style="margin: 0 10px;"/>
   <img height="40" alt="Python" src="https://cdn.simpleicons.org/python" style="margin: 0 10px;"/>
   <img height="40" alt="Kotlin" src="https://cdn.simpleicons.org/kotlin" style="margin: 0 10px;"/>
@@ -51,9 +45,9 @@ I enjoy working on **Java + Spring Boot** backends, **React** frontends, and IoT
   <img height="40" alt="Julia" src="https://cdn.simpleicons.org/julia" style="margin: 0 10px;"/>
   <img height="40" alt="Haskell" src="https://cdn.simpleicons.org/haskell" style="margin: 0 10px;"/>
   <img height="40" alt="Clojure" src="https://cdn.simpleicons.org/clojure" style="margin: 0 10px;"/>
-</div>
+</div><br>
 
----
+<br>
 
 ## 🚀 Projects Highlights
 
@@ -63,7 +57,7 @@ I enjoy working on **Java + Spring Boot** backends, **React** frontends, and IoT
 | **Spring Boot Banking App** | Secure multi-role banking backend with React frontend. | [GitHub](https://github.com/LORENZOCIRCELLI/springboot-banking) |
 | **Crafting Assistant for Subnautica** | Java + JavaFX app for Subnautica crafting recipes. | [GitHub](https://github.com/LORENZOCIRCELLI/subnautica-crafting) |
 
----
+<br>
 
 ## 💡 Soft Skills
 
@@ -72,7 +66,7 @@ I enjoy working on **Java + Spring Boot** backends, **React** frontends, and IoT
 - Adaptability & continuous learning  
 - Effective communication  
 
----
+<br>
 
 ## 📊 GitHub Stats
 
@@ -84,7 +78,7 @@ I enjoy working on **Java + Spring Boot** backends, **React** frontends, and IoT
   </picture>
 </p>
 
----
+<br>
 
 ## 📫 Connect with me
 
