@@ -7,16 +7,16 @@ I enjoy working on Java + Spring Boot backends, React frontends, and IoT systems
 
 ## 🔧 Technologies
 
-<div>
-<img height="20" src="https://cdn.simpleicons.org/javascript?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/python?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/kotlin?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/dart?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/r?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/swift?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/julia?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/haskell?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/clojure?viewbox=auto" />
+<div align="center">
+<img height="40" src="https://cdn.simpleicons.org/javascript?viewbox=auto" />
+<img height="40" src="https://cdn.simpleicons.org/python?viewbox=auto" />
+<img height="40" src="https://cdn.simpleicons.org/kotlin?viewbox=auto" />
+<img height="40" src="https://cdn.simpleicons.org/dart?viewbox=auto" />
+<img height="40" src="https://cdn.simpleicons.org/r?viewbox=auto" />
+<img height="40" src="https://cdn.simpleicons.org/swift?viewbox=auto" />
+<img height="40" src="https://cdn.simpleicons.org/julia?viewbox=auto" />
+<img height="40" src="https://cdn.simpleicons.org/haskell?viewbox=auto" />
+<img height="40" src="https://cdn.simpleicons.org/clojure?viewbox=auto" />
 </div>
 ## 📊 GitHub Stats
 <p align="center">
