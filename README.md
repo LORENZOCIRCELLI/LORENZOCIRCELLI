@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm John 👋
 
-<!--
-**LORENZOCIRCELLI/LORENZOCIRCELLI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer engineering student passionate about backend development, electronics, and building useful tools.
 
-Here are some ideas to get you started:
+## 🔧 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev" target="_blank">
+    <img src="https://cdn.simpleicons.org/react/61DAFB?logo=react&logoColor=black" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/spring/6DB33F?logo=spring&logoColor=black" alt="Spring Boot" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.simpleicons.org/arduino/00979D?logo=arduino&logoColor=white" alt="Arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/c/00599C?logo=c&logoColor=white" alt="C Language" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/git/F05032?logo=git&logoColor=white" alt="Git" width="40" height="40"/>
+  </a>
+</p>
+
+
+## 📊 GitHub Stats
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsmith&show_icons=true)
+
+## 🔗 Connect with me
+[LinkedIn](https://linkedin.com/in/johnsmith) | [Portfolio](https://johnsmith.dev)
