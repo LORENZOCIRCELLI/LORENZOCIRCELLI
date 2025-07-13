@@ -17,8 +17,7 @@ I enjoy working on Java + Spring Boot backends, React frontends, and IoT systems
     <img src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" width="40" height="40" style="margin: 0 15px"/>
   </a><!--
   --><a href="https://spring.io/projects/spring-framework" target="_blank">
-    <img src="https://cdn.simpleicons.org/spring/6DB33F" alt="Spring Framework" width="40" height="40" style="margin: 0 15px"/>
-  </a><!--
+    <img src="https://cdn.simpleicons.org/spring/6DB33F" alt="Spring Framework" width="40" height="40" style="margin: 0 15px"/></a><!--
   --><a href="https://react.dev" target="_blank">
     <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40" style="margin: 0 15px"/>
   </a><!--
