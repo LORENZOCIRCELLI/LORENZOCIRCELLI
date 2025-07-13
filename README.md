@@ -30,4 +30,4 @@
 ![Lorenzo Circelli GitHub stats](https://github-readme-stats.vercel.app/api?username=LORENZOCIRCELLI&show_icons=true)
 
 ## 🔗 Connect with me
-[LinkedIn](https://linkedin.com/in/LORENZOCIRCELLI) | [Portfolio](https://lorenzocircelli.com.br)
+[LinkedIn](www.linkedin.com/in/lorenzocalabresecircelli) | [Portfolio](https://lorenzocircelli.com.br)
