@@ -1,10 +1,10 @@
-# Hi, I'm John 👋
+# Hi, I'm Lorenzo Circelli 👋
 
-I'm a computer engineering student passionate about backend development, electronics, and building useful tools.
+<p align="center">I'm a computer engineering student and full-stack developer</p>
 
 ## 🔧 Technologies
 
-<p align="left">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="40" height="40"/>
   </a>
@@ -27,7 +27,7 @@ I'm a computer engineering student passionate about backend development, electro
 
 
 ## 📊 GitHub Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsmith&show_icons=true)
+![Lorenzo Circelli GitHub stats](https://github-readme-stats.vercel.app/api?username=LORENZOCIRCELLIh&show_icons=true)
 
 ## 🔗 Connect with me
-[LinkedIn](https://linkedin.com/in/johnsmith) | [Portfolio](https://johnsmith.dev)
+[LinkedIn](https://linkedin.com/in/LORENZOCIRCELLI) | [Portfolio](https://lorenzocircelli.com.br)
