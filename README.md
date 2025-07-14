@@ -1,3 +1,5 @@
+<br>
+ 
  <div align="center">
   <h1>Hi, I'm Lorenzo Circelli 👋</h1>
   <code>Computer Engineering student and full-stack developer</code>
