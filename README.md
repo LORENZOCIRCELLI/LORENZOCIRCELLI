@@ -21,18 +21,33 @@ I enjoy working on **Java + Spring Boot** backends, **React** frontends, and IoT
 
 <br>
 
-## 🔧 Technologies & Tools
+## 🔧 Programming Languages and Technologies
 
 <div align="center" style="margin: 40px 0;"><br><br>
+  <img height="40" alt="HTML5" src="https://cdn.simpleicons.org/html5" style="margin: 0 10px;"/>
+  <img height="40" alt="CSS" src="https://cdn.simpleicons.org/css" style="margin: 0 10px;"/>
   <img height="40" alt="JavaScript" src="https://cdn.simpleicons.org/javascript" style="margin: 0 10px;"/>
+  <img height="40" alt="React" src="https://cdn.simpleicons.org/react" style="margin: 0 10px;"/>
+  <img height="40" alt="ReactBootstrap" src="https://cdn.simpleicons.org/reactbootstrap" style="margin: 0 10px;"/>
+  <img height="40" alt="Spring" src="https://cdn.simpleicons.org/spring" style="margin: 0 10px;"/>
+  <img height="40" alt="SpringBoot" src="https://cdn.simpleicons.org/springboot" style="margin: 0 10px;"/>
   <img height="40" alt="Python" src="https://cdn.simpleicons.org/python" style="margin: 0 10px;"/>
-  <img height="40" alt="Kotlin" src="https://cdn.simpleicons.org/kotlin" style="margin: 0 10px;"/>
-  <img height="40" alt="Dart" src="https://cdn.simpleicons.org/dart" style="margin: 0 10px;"/>
-  <img height="40" alt="R" src="https://cdn.simpleicons.org/r" style="margin: 0 10px;"/>
-  <img height="40" alt="Swift" src="https://cdn.simpleicons.org/swift" style="margin: 0 10px;"/>
-  <img height="40" alt="Julia" src="https://cdn.simpleicons.org/julia" style="margin: 0 10px;"/>
-  <img height="40" alt="Haskell" src="https://cdn.simpleicons.org/haskell" style="margin: 0 10px;"/>
-  <img height="40" alt="Clojure" src="https://cdn.simpleicons.org/clojure" style="margin: 0 10px;"/>
+  <img height="40" alt="Linux" src="https://cdn.simpleicons.org/linux" style="margin: 0 10px;"/>
+  <img height="40" alt="Bash" src="https://cdn.simpleicons.org/gnubash" style="margin: 0 10px;"/>
+  <img height="40" alt="LaTex" src="https://cdn.simpleicons.org/latex" style="margin: 0 10px;"/>
+
+
+</div><br>
+
+## 🔧 Hobbies (Hardware/Computer Engineering Related)
+
+<div align="center" style="margin: 40px 0;"><br><br>
+  <img height="40" alt="C" src="https://cdn.simpleicons.org/C" style="margin: 0 10px;"/>
+  <img height="40" alt="C++" src="https://cdn.simpleicons.org/cplusplus" style="margin: 0 10px;"/>
+  <img height="40" alt="Arduino" src="https://cdn.simpleicons.org/arduino" style="margin: 0 10px;"/>
+  <img height="40" alt="Espressif" src="https://cdn.simpleicons.org/espressif" style="margin: 0 10px;"/>
+
+
 </div><br>
 
 <br>
