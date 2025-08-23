@@ -30,7 +30,6 @@ I enjoy working on **Java + Spring Boot** backends, **React** frontends, and IoT
   <img height="40" alt="ReactBootstrap" src="https://cdn.simpleicons.org/reactbootstrap" style="margin: 0 10px;"/>
   <img height="40" alt="Spring" src="https://cdn.simpleicons.org/spring" style="margin: 0 10px;"/>
   <img height="40" alt="SpringBoot" src="https://cdn.simpleicons.org/springboot" style="margin: 0 10px;"/>
-  <img height="40" alt="Python" src="https://cdn.simpleicons.org/python" style="margin: 0 10px;"/>
   <img height="40" alt="Linux" src="https://cdn.simpleicons.org/linux" style="margin: 0 10px;"/>
   <img height="40" alt="Bash" src="https://cdn.simpleicons.org/gnubash" style="margin: 0 10px;"/>
   <img height="40" alt="LaTex" src="https://cdn.simpleicons.org/latex" style="margin: 0 10px;"/>
