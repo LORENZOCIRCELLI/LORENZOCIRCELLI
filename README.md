@@ -1,8 +1,8 @@
 <br>
  
  <div align="center">
-  <h1>Hi, I'm Lorenzo Circelli 👋</h1>
-  <code>Computer Engineering student and full-stack developer</code>
+  <h1>Oi, eu sou o Lorenzo Circelli 👋</h1>
+  <code>Estudante de Engenharia da Computação e desenvolvedor full-stack</code>
 </div>
 <div align="center">
   <br>
@@ -13,14 +13,14 @@
 </div>
 <br>
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-I'm a Computer Engineering student passionate about building full-stack solutions that connect the physical and digital worlds.  
-I enjoy working on **Java + Spring Boot** backends, **React** frontends, and IoT systems with **Arduino/ESP32**.
+Sou estudante de Engenharia da Computação apaixonado por construir soluções full-stack que conectam o mundo físico e digital.  
+Gosto de trabalhar com backends em **Java + Spring Boot**, frontends em **React** e sistemas IoT com **Arduino/ESP32**.
 
 <br>
 
-## 🔧 Programming Languages and Technologies
+## 🔧 Linguagens e Tecnologias
 
 <div align="center" style="margin: 40px 0;"><br><br>
   <img height="40" alt="HTML5" src="https://cdn.simpleicons.org/html5" style="margin: 0 10px;"/>
@@ -37,7 +37,7 @@ I enjoy working on **Java + Spring Boot** backends, **React** frontends, and IoT
 
 </div><br>
 
-## 🔧 Hobbies (Hardware/Computer Engineering Related)
+## 🔧 Hobbies (Relacionados a Hardware/Engenharia da Computação)
 
 <div align="center" style="margin: 40px 0;"><br><br>
   <img height="40" alt="C" src="https://cdn.simpleicons.org/C" style="margin: 0 10px;"/>
@@ -50,26 +50,26 @@ I enjoy working on **Java + Spring Boot** backends, **React** frontends, and IoT
 
 <br>
 
-## 🚀 Projects Highlights
+## 🚀 Projetos em Destaque
 
-| Project | Description | Link |
+| Projeto | Descrição | Link |
 | ------- | ----------- | ---- |
-| **Awesome IoT Hub** | A full-stack platform connecting Arduino devices with React dashboards. | [GitHub](https://github.com/LORENZOCIRCELLI/awesome-iot-hub) |
-| **Spring Boot Banking App** | Secure multi-role banking backend with React frontend. | [GitHub](https://github.com/LORENZOCIRCELLI/springboot-banking) |
-| **Crafting Assistant for Subnautica** | Java + JavaFX app for Subnautica crafting recipes. | [GitHub](https://github.com/LORENZOCIRCELLI/subnautica-crafting) |
+| **Awesome IoT Hub** | Plataforma full-stack que conecta dispositivos Arduino a dashboards em React. | [GitHub](https://github.com/LORENZOCIRCELLI/awesome-iot-hub) |
+| **Spring Boot Banking App** | Backend bancário seguro com múltiplos papéis e frontend em React. | [GitHub](https://github.com/LORENZOCIRCELLI/springboot-banking) |
+| **Assistente de Crafting para Subnautica** | Aplicativo em Java + JavaFX para receitas de crafting do Subnautica. | [GitHub](https://github.com/LORENZOCIRCELLI/subnautica-crafting) |
 
 <br>
 
 ## 💡 Soft Skills
 
-- Problem solving & analytical thinking  
-- Teamwork & collaboration  
-- Adaptability & continuous learning  
-- Effective communication  
+- Resolução de problemas & pensamento analítico  
+- Trabalho em equipe & colaboração  
+- Adaptabilidade & aprendizado contínuo  
+- Comunicação eficaz  
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="center" style="margin: 40px 0;">
   <picture>
@@ -81,7 +81,7 @@ I enjoy working on **Java + Spring Boot** backends, **React** frontends, and IoT
 
 <br>
 
-## 📫 Connect with me
+## 📫 Entre em Contato
 
 <div align="center" style="margin: 20px 0;">
   <a href="mailto:lorenzo@example.com" style="text-decoration:none; margin: 0 10px;" title="Email">
