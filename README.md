@@ -23,7 +23,6 @@ Atualmente possuo repositórios nos quais eu desenvolvo tecnologias e soluções
 <img height="40" alt="CSS" src="https://cdn.simpleicons.org/css" /> 
 <img height="40" alt="JavaScript" src="https://cdn.simpleicons.org/javascript" /> 
 <img height="40" alt="React" src="https://cdn.simpleicons.org/react" /> 
-<img height="40" alt="ReactBootstrap" src="https://cdn.simpleicons.org/reactbootstrap" /> 
 <img height="40" alt="Java" src="./assets/java.svg" />
 <img height="40" alt="Spring" src="https://cdn.simpleicons.org/spring" /> 
 <img height="40" alt="Spring Boot" src="https://cdn.simpleicons.org/springboot" /> 
