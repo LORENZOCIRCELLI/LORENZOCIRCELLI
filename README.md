@@ -19,20 +19,23 @@ Atualmente possuo repositórios nos quais eu desenvolvo tecnologias e soluções
 </ul>
 
 <div align="center">
-<img height="40" alt="HTML5" src="https://cdn.simpleicons.org/html5" /> 
-<img height="40" alt="CSS" src="https://cdn.simpleicons.org/css" /> 
-<img height="40" alt="JavaScript" src="https://cdn.simpleicons.org/javascript" /> 
-<img height="40" alt="React" src="https://cdn.simpleicons.org/react" /> 
-<img height="40" alt="Java" src="./assets/java.svg" />
-<img height="40" alt="Spring" src="https://cdn.simpleicons.org/spring" /> 
-<img height="40" alt="Spring Boot" src="https://cdn.simpleicons.org/springboot" /> 
-<img height="40" alt="Linux" src="https://cdn.simpleicons.org/linux" /> 
-<img height="40" alt="Bash" src="https://cdn.simpleicons.org/gnubash" /> 
-<img height="40" alt="LaTex" src="https://cdn.simpleicons.org/latex" /> 
-<img height="40" alt="C" src="https://cdn.simpleicons.org/c" /> 
-<img height="40" alt="C++" src="https://cdn.simpleicons.org/cplusplus" /> 
-<img height="40" alt="Arduino" src="https://cdn.simpleicons.org/arduino" /> 
-<img height="40" alt="ESP32" src="https://cdn.simpleicons.org/espressif" /> 
+<img height="50" alt="HTML5" src="https://cdn.simpleicons.org/html5" /> 
+<img height="50" alt="CSS" src="https://cdn.simpleicons.org/css" /> 
+<img height="50" alt="JavaScript" src="https://cdn.simpleicons.org/javascript" /> 
+<img height="50" alt="React" src="https://cdn.simpleicons.org/react" /> 
+<img height="50" alt="Java" src="./assets/java.svg" />
+<img height="50" alt="Spring" src="https://cdn.simpleicons.org/spring" /> 
+<img height="50" alt="Spring Boot" src="https://cdn.simpleicons.org/springboot" /> 
+<img height="50" alt="Python" src="https://cdn.simpleicons.org/python" /> 
+<img height="50" alt="Numpy" src="https://cdn.simpleicons.org/numpy" /> 
+<img height="50" alt="Sympy" src="https://cdn.simpleicons.org/sympy" /> 
+<img height="50" alt="Pytorch" src="https://cdn.simpleicons.org/pytorch" /> 
+<img height="50" alt="C" src="https://cdn.simpleicons.org/c" /> 
+<img height="50" alt="C++" src="https://cdn.simpleicons.org/cplusplus" /> 
+<img height="50" alt="Arduino" src="https://cdn.simpleicons.org/arduino" /> 
+<img height="50" alt="ESP32" src="https://cdn.simpleicons.org/espressif" /> 
+<img height="50" alt="Linux" src="https://cdn.simpleicons.org/linux" /> 
+<img height="50" alt="LaTex" src="https://cdn.simpleicons.org/latex" /> 
 
 </div>
 
