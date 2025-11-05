@@ -1,52 +1,35 @@
 <br>
-
-<div align="center">
+<div>
   <h1>👋 Olá, eu sou o Lorenzo Circelli</h1>
-  <p><i>Estudante de Engenharia da Computação | Desenvolvedor Full-Stack | Entusiasta de IoT</i></p>
 </div>
 
-<div align="center">
-  <a href="https://github.com/LORENZOCIRCELLI" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lorenzocalabresecircelli" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+Sou estudante de Engenharia da Computação e Desenvolvedor Full-Stack, entusiasta de hardware embarcado e eletrônicos e realizo pesquisas na minha universidade no campo da inteligência artficial.
 
----
+Desenvolvo em linguagens como Java, Python, Javascript, C e C++. Dando ênfase em frameworks como Spring no back-end, React no front-end e Python com Pytorch para IA. 
+Também tenho conhecimento em bancos de dados relacionais, modelagem de MER e DER, álgebra relacional e estruturação de banco de dados.
+Atualmente possuo repositórios nos quais eu desenvolvo tecnologias e soluções para situações cotidianas, além de projetos pessoais com o propósito de colocar meu conhecimento a prova e sempre aprender mais. 
 
-## 👨‍💻 Sobre Mim  
-
-Sou estudante de **Engenharia da Computação** apaixonado por transformar ideias em soluções tecnológicas.  
-Trabalho com **Java + Spring Boot** para backends, **React** para frontends e tenho experiência em **IoT** com **Arduino/ESP32**.  
-
-Gosto de criar projetos que unem **hardware e software**, explorando a interseção entre o mundo físico e digital.  
-
----
-
-## 🛠️ Tecnologias  
+<ul>
+  <li>Continuo aprimorando meus conhecimentos em Spring e Pytorch por meio de cursos e projetos</li>
+  <li>No âmbito de IA, dedico mais tempo na parte matemática e estatística</li>
+  <li>Utilizo React para expor meus projetos por meio de interfaces gráficas atrativas em sites e para UI e UX em aplicativos</li>
+  <li>Aprendi C/C++ para aplicação em Estruturas de Dados, programação em competições e soluções embarcadas com hardware, como ESP32 e Arduino</li>
+  <li>Estudo diagramas de bancos de dados, SQL, em softwares como MySQL Workbench e SQLite para tornar o back-end dos meus projetos mais profissionais</li>
+  <li>Estudo continuamente para me aprimorar em lógica, linguagens de programação, bancos de dados e matemática</li>
+</ul>
 
 <div align="center">
-
-### 🌐 Desenvolvimento Web  
 <img height="40" alt="HTML5" src="https://cdn.simpleicons.org/html5" /> 
 <img height="40" alt="CSS" src="https://cdn.simpleicons.org/css" /> 
 <img height="40" alt="JavaScript" src="https://cdn.simpleicons.org/javascript" /> 
 <img height="40" alt="React" src="https://cdn.simpleicons.org/react" /> 
 <img height="40" alt="ReactBootstrap" src="https://cdn.simpleicons.org/reactbootstrap" /> 
-
-### ☕ Backend  
 <img height="40" alt="Java" src="./assets/java.svg" />
 <img height="40" alt="Spring" src="https://cdn.simpleicons.org/spring" /> 
 <img height="40" alt="Spring Boot" src="https://cdn.simpleicons.org/springboot" /> 
-
-### 💻 Sistemas Operacionais e Ferramentas  
 <img height="40" alt="Linux" src="https://cdn.simpleicons.org/linux" /> 
 <img height="40" alt="Bash" src="https://cdn.simpleicons.org/gnubash" /> 
 <img height="40" alt="LaTex" src="https://cdn.simpleicons.org/latex" /> 
-
-### ⚡ Hardware e IoT  
 <img height="40" alt="C" src="https://cdn.simpleicons.org/c" /> 
 <img height="40" alt="C++" src="https://cdn.simpleicons.org/cplusplus" /> 
 <img height="40" alt="Arduino" src="https://cdn.simpleicons.org/arduino" /> 
@@ -60,9 +43,9 @@ Gosto de criar projetos que unem **hardware e software**, explorando a interseç
 
 | Projeto | Descrição | Link |
 | ------- | ----------- | ---- |
-| **Awesome IoT Hub** | Plataforma full-stack que conecta dispositivos Arduino a dashboards em React. | [🔗 GitHub](https://github.com/LORENZOCIRCELLI/awesome-iot-hub) |
-| **Spring Boot Banking App** | Backend bancário seguro com múltiplos papéis e frontend em React. | [🔗 GitHub](https://github.com/LORENZOCIRCELLI/springboot-banking) |
-| **Assistente de Crafting para Subnautica** | Aplicativo em Java + JavaFX para receitas de crafting do Subnautica. | [🔗 GitHub](https://github.com/LORENZOCIRCELLI/subnautica-crafting) |
+| **Air Guardian** | Plataforma com Dispostivo Embarcado que permite aferir dados do Ambiente. | [🔗 GitHub](https://github.com/LORENZOCIRCELLI/AirGuardian) |
+| **Spring Boot Banking App** | Backend bancário seguro com múltiplos papéis e frontend em React. | [🔗 GitHub](https://github.com/LORENZOCIRCELLI/FoundationBank-Backend) |
+| **PelicanPlanner** | Assistente para Stardew Valley. | [🔗 GitHub](https://github.com/LORENZOCIRCELLI/PelicanPlanner) |
 
 ---
 
@@ -74,24 +57,3 @@ Gosto de criar projetos que unem **hardware e software**, explorando a interseç
 - 🗣️ Comunicação eficaz  
 
 ---
-
-## 📊 Estatísticas do GitHub  
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LORENZOCIRCELLI&show_icons=true&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=LORENZOCIRCELLI&show_icons=true&theme=light" />
-    <img src="https://github-readme-stats.vercel.app/api?username=LORENZOCIRCELLI&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </picture>
-</div>
-
----
-
-## 📫 Contato  
-
-<div align="center">
-  <a href="mailto:lorenzo@example.com" title="Email">📧</a>
-  <a href="https://linkedin.com/in/lorenzocircelli" title="LinkedIn">🔗</a>
-  <a href="https://twitter.com/lorenzocircelli" title="Twitter">🐦</a>
-  <a href="https://github.com/LORENZOCIRCELLI" title="GitHub">🐙</a>
-</div>
