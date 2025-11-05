@@ -18,6 +18,8 @@ Atualmente possuo repositórios nos quais eu desenvolvo tecnologias e soluções
   <li>Estudo continuamente para me aprimorar em lógica, linguagens de programação, bancos de dados e matemática</li>
 </ul>
 
+---
+
 <div align="center">
 <img height="50" alt="HTML5" src="https://cdn.simpleicons.org/html5" /> 
 <img height="50" alt="CSS" src="https://cdn.simpleicons.org/css" /> 
